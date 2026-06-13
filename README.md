@@ -12,7 +12,10 @@ A python based implelentation of the evaluation of some clustering algorithms in
 <br/>
 
 ### **General info:**
-This is an evaluation of unsupervised clustering algorithms on microarray gene expression data for breast tumor classification under conditions of feature overlap and sample imbalance using python. Feel free to download end edit the code.
+This is an evaluation of unsupervised clustering algorithms on microarray gene expression data for breast tumor classification under conditions of feature overlap and sample imbalance using python. Feel free to download end edit the code. The clustering algorithms are the following:
+- K-Means Clustering
+- DBSCAN Clustering
+- Agglomerative Hierarchical Clustering
 <br/>
 
 ### **Setup:**
