@@ -12,16 +12,7 @@ A python based implelentation of the evaluation of some clustering algorithms in
 <br/>
 
 ### **General info:**
-This is an evaluation of unsupervised clustering algorithms on microarray gene expression data for breast tumor classification under conditions of feature overlap and sample imbalance using python. Feel free to download end edit the code. The clustering algorithms are the following:
-- K-Means Clustering
-- DBSCAN Clustering
-- Agglomerative Hierarchical Clustering
-<br/>
-
-### **Setup:**
-- Python 3.8 version or higher is recommended
-- Jupyter Notebook required to run and view the `.ipynb` project files.
-- Install all necessary data science and machine learning dependencies (pandas, numpy e.t.c.)
+This is an evaluation of unsupervised clustering algorithms on microarray gene expression data for breast tumor classification under conditions of feature overlap and sample imbalance using python. Feel free to download end edit the code.
 <br/>
 
 ### **Setup:**
@@ -37,13 +28,12 @@ To replicate the analysis, please execute the files in the following order.
    * *Purpose:* Cleans the raw microarray data and saves the processed dataset.
 2. Remaining Notebooks.
    * *Note: Once the data preprocessing step is complete, the remaining notebooks can be executed in any order.
-    
-- Jupyter Notebook required to run and view the `.ipynb` project files.
-- Install all necessary data science and machine learning dependencies (pandas, numpy e.t.c.)
-<br/>
 
 ### **Complete stuff:**
-A comparative analysis of the performance of 3 different clustering algorithms in compuatational ocnology context. <br/>
+A comparative analysis of the performance of 3 different clustering algorithms in computational oncology context. The clustering algorithms are the following:
+- K-Means Clustering
+- DBSCAN Clustering
+- Agglomerative Hierarchical Clustering<br/>
 <br/>
 
 ### **Contributors:**
